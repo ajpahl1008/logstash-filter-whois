@@ -44,7 +44,7 @@ Conducting WhoIs Analysis on URL: www.cnn.com
 {
            "@timestamp" => 2018-03-11T00:02:09.062Z,
                "domain" => "www.cnn.com",
-                 "host" => "AJ-MacBook-Pro-5.local",
+                 "host" => "hostname.local",
     "whois_report_data" => {
                  "expires_on" => "2018-09-21T04:00:00.000Z",
                  "created_on" => "1993-09-22T04:00:00.000Z",
